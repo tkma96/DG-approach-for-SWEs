@@ -4,3 +4,4 @@ The approach of the DG method envisaged uses 1D and 2D auxiliary basis polynomia
 
 We rewrite the local matrices of the DG semi-discrete equations in terms of a global template. To that end, we used some auxiliary basis polynomials based on the 1D and 2D Jacobi polynomials. Furthermore, we used an unstructured triangulation mesh in our discretization. The validation of our approach is constructed by computing the solution of the shallow water equations with a Gaussian pulse as the initial condition and reflecting boundary conditions.
 
+This work was done between February and June 2020 for my Master's thesis at AIMS.
