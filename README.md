@@ -9,8 +9,8 @@ This work was done between February and June 2020 for my Master's thesis at AIMS
 
 The plots belows show a 3D view of the solution of the resolved shallow water equations he solution at times t = 0; 10^−2 ; 5 × 10^−2 .
 
-![Initial solution](plots/initialSol3d.png)
+![Initial solution](Plots/initialSol3d.png)
 
-![Solution at t1](plots/solution13d.png)
+![Solution at t1](Plots/solution13d.png)
 
-![Solution at t2](plots/solution23d.png)
+![Solution at t2](Plots/solution23d.png)
